@@ -1,3 +1,8 @@
+> [!CAUTION]
+> GitLab now officially support ARM64 Docker images. Discontinue using this repository and use the official images:
+> - GitLab Community Edition (CE): [https://hub.docker.com/r/gitlab/gitlab-ce](https://hub.docker.com/r/gitlab/gitlab-ce)
+> - GitLab Enterprise Edition (EE): [https://hub.docker.com/r/gitlab/gitlab-ee](https://hub.docker.com/r/gitlab/gitlab-ee)
+
 # GitLab Docker Image for ARM64
 
 [![build-badge][github-actions-badge]][github-actions]
